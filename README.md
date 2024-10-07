@@ -1,5 +1,3 @@
-
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_logo_verticle.png">
 </p>
@@ -7,6 +5,7 @@
 <p align="center">
   <a href="https://forum.andronix.app"><img src="https://img.shields.io/badge/Questions%3F-Join%20our%20forum-blue?style=flat-square"></a>
   <a href="https://chat.andronix.app"><img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat-square&logo=discord"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMainOliver22%2FAndronixOrigin?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMainOliver22%2FAndronixOrigin.svg?type=shield"/></a>
   <a href="https://docs.andronix.app"><img src="https://img.shields.io/badge/Documentation-Read%20the%20docs-blue?style=flat-square"></a>
   <a href="https://play.google.com/store/apps/details?id=studio.com.techriz.andronix"><img src="https://img.shields.io/badge/Download-Google%20Play-orange?style=flat-square&logo=google-play"></a>
   <a href="https://github.com/AndronixApp/AndronixOrigin/releases"><img src="https://img.shields.io/badge/Download-GitHub%20Releases-orange?style=flat-square&logo=github"></a>
@@ -116,3 +115,7 @@ That doesn't mean that we don't love open-source, **we** 💘 **open-source**. I
 <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example3.png" width="400" >
 <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/example/example4.png" width="400" >
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMainOliver22%2FAndronixOrigin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMainOliver22%2FAndronixOrigin?ref=badge_large)
